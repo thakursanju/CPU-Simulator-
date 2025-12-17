@@ -1,0 +1,6 @@
+# Gantt Chart Export
+# Generated on: Mon Aug 25 22:34:50 2025
+# Format: ProcessID StartTime EndTime
+#
+# Gantt chart data would be exported here
+# This feature requires integration with metrics.c
